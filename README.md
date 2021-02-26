@@ -33,3 +33,5 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbecue&theme=dark&count_private=true&show_icons=true&hide_border=true" />
    <img src="https://github-readme-stats.vercel.app/api?username=penguenn&theme=vue-dark&dark_icons=true" />
 </p>
+
+![Developer](https://camo.githubusercontent.com/25cebc5cae4a01ff5d3e1199aac7e4b83bcf1d341f6313173a994727d17a3ecb/68747470733a2f2f692e616c6578666c69706e6f74652e6465762f346839336775792e706e67)
