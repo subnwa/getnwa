@@ -2,7 +2,7 @@
    <p align="left">Hi, I’m <a href="">penguenn!</a>, a young developer from Turkey 🚀</p>
 <h3>My Personal accounts:</h3>
 <p align="left">
-   <a href="https://discord.com/users/707403727912304641" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.gg/T5SdrghN4E" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/y30nmhrv2754tmalfqe3umq4m?si=HiqAng5aSBuhfIcahWHZdg" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://www.youtube.com/channel/UC2GD4NXxXk1S52upcJEX7yQ" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://instagram.com/penguennn0" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -11,7 +11,7 @@
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
   <li>💻 I’m currently working on a cool project 😎</li>
-  <li>📫 You can reach me from <a href="https://discord.com/users/707403727912304641" target"blank_">Discord</a> or <a href="https://instagram.com/penguennn0" target="_blank">Instagram</a>.</li>
+  <li>📫 You can reach me from <a href="https://discord.gg/T5SdrghN4E1" target"blank_">Discord</a> or <a href="https://instagram.com/penguennn0" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>Languages and Tools:</h3>
 <p style="float:right">
