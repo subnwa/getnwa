@@ -32,6 +32,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=1572B6)
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=1572B6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=jira&logoColor=1572B6)
    
 </p>
 <h3 align="left">GitHub Stats:</h3>
