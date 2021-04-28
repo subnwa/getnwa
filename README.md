@@ -6,7 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com)
 --------------------------------
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=penguenn&theme=dark&show_icons=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?penguenn=anuraghazra&show_icons=true&Gradient=radical">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eggsy&theme=dark&hide_border=true&layout=compact">
 
