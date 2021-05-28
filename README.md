@@ -1,9 +1,5 @@
 <h2>Welcome to my GitHub profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
-![forthebadge made-with-javascript](http://ForTheBadge.com/images/badges/made-with-javascript.svg)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com)
 --------------------------------
 
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
